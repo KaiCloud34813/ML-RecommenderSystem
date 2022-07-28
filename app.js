@@ -12,6 +12,8 @@ app.use(express.urlencoded({ extended: true }));
 const result = [];
 const result2 = [];
 
+// const result3=[];
+
 pythonScript = "/code.py";
 pythonScript2 = "/code2.py";
 
